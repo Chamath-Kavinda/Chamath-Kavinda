@@ -39,12 +39,6 @@ I'm looking for opportunities to collaborate on web development, backend and gam
 - 🧠 [MemoryJournal](https://github.com/Chamath-Kavinda/MemoryJournal): private journaling app that trains your memory
 - ⏱️ [WorkTracker](https://github.com/Chamath-Kavinda/WorkTracker): track work, generate reports, and plan projects
 - 🎮 [UgeAppageLauncher](https://github.com/Chamath-Kavinda/UgeAppageLauncher-releases): release builds of Uge Appage Launcher
-- 🌐 [Chamath-Portfolio](https://github.com/Chamath-Kavinda/Chamath-Portfolio): full-stack web and Unity game portfolio
-
-## 📊 GitHub Stats
-
-![Chamath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chamath-Kavinda&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chamath-Kavinda&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 📬 Get in Touch
 
