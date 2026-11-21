@@ -39,6 +39,7 @@ I'm looking for opportunities to collaborate on web development, backend and gam
 - 🧠 [MemoryJournal](https://github.com/Chamath-Kavinda/MemoryJournal): private journaling app that trains your memory
 - ⏱️ [WorkTracker](https://github.com/Chamath-Kavinda/WorkTracker): track work, generate reports, and plan projects
 - 🎮 [UgeAppageLauncher](https://github.com/Chamath-Kavinda/UgeAppageLauncher-releases): release builds of Uge Appage Launcher
+- 🤖 [TRD-Bot](https://github.com/Chamath-Kavinda/TRD-Bot): Telegram bot that downloads Instagram, TikTok and YouTube videos without watermark
 
 ## 📬 Get in Touch
 
